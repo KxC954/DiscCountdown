@@ -1,0 +1,1 @@
+worker: BombBot.py
